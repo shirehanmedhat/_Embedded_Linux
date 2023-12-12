@@ -8,7 +8,7 @@ This Bash script is designed to update environment variables in the user's .bash
 
 #### Usage
 ###### 1- Make the script executable
-2- Run the script
+###### 2- Run the script
 
 
 #### Expected Output
