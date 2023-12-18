@@ -1,0 +1,782 @@
+    1  sudo apt-get insatall gnome-screenshot
+    2  man rm
+    3  libreoffice --writer
+    4  mav rmdir&
+    5  man rmdir&
+    6  man rmdir
+    7  cd
+    8  ls
+    9  mkdir Tasks
+   10  ls
+   11  libreoffice -writer ~/Tasks
+   12  libreoffice --writer ~/Tasks
+   13  cd ~/Tasks
+   14  cd ..
+   15  ls ~/Tasks/
+   16  libreoffice --writer ~/Tasks/Untitled-1.odt
+   17  libreoffice --writer ~/Tasks/Untitled-1
+   18  cd ~/Tasks/Day_1/
+   19  ls
+   20  cd
+   21  libreoffice ~/Tasks/Day_1/day_1
+   22  libreoffice ~/Tasks/Day_1
+   23  cd ~/Tasks/Day_1
+   24  ls
+   25  libreoffice --writer day_1.odt
+   26  cd
+   27  libreoffice --writer ~/Tasks/Day_1/day1.odt
+   28  libreoffice --writer~/Tasks/Day_1/day1.odt
+   29  libreoffice --writer home/shirehanmedhat/Tasks/Day_1/day1.odt
+   30  libreoffice --writer home/cherry/Tasks/Day_1/day1.odt
+   31  mkir dir1 docs Documents
+   32  mkdir dir1 docs Documents
+   33  mkdir dir1 docs Documents_1
+   34  rm -r dir1 docs Documents_1
+   35  ls
+   36  clear
+   37  mkdir dir1 docs Documents_1
+   38  ls
+   39  cd dir1
+   40  ..
+   41  cd ..
+   42  mkdir dir11 dir12 ~/dir1
+   43  mkdir ~/dir1 dir12 dir11
+   44  rm -r ~/dir1 dir11 dir12
+   45  cd dir1
+   46  mkdir dir1 
+   47  mkdir dir11 dir12 ~/dir1
+   48  ls
+   49  cd dir
+   50  cd dir1
+   51  ls
+   52  ..
+   53  cd ..
+   54  ls
+   55  rm -r dir11 dir1 dir12 docs Documents_1
+   56  ls
+   57  mkdir -p 
+   58  mkdir -p ~/dir1/dir11 dir12
+   59  ls 
+   60  mkdir -p ~/dir1/dir11dir12
+   61  ls
+   62  cd dir1
+   63  ls
+   64  rm -r dir11 dir11dir12
+   65  ls
+   66  cd ..
+   67  rm -r dir1 dir12 
+   68  ls
+   69  clear
+   70  mkdir dir1 docs Documents_1
+   71  ls
+   72  mkdir ~/dir1/dir11
+   73  ls
+   74  c dir1
+   75  cd dir1
+   76  ls
+   77  mkdir dir12
+   78  touch /dir11/file1
+   79  touch dir11/file1
+   80  cd dir11
+   81  ls
+   82  cd ~
+   83  touch docs/mycv
+   84  cd docs
+   85  ls
+   86  cd
+   87  touch Documents_1/OldFile
+   88  cd Documents_1
+   89  ls
+   90  clear
+   91  ls
+   92  cd ~
+   93  ls
+   94  rmdir ~/dir1/dir11
+   95  rm -r ~/dir1/dir11
+   96  cd ~/dir1
+   97  ls
+   98  rmdir -p Documents_1/OldFiles
+   99  cd 
+  100  rmdir -p Documents_1/OldFiles
+  101  cd Documents_1
+  102  ls
+  103  cd ~
+  104  cd Documents_1
+  105  mv OldFile OldFiles
+  106  ls
+  107  cd ~
+  108  rmdir -p Documents_1/OldFiles
+  109  rmdir -p Documents_1
+  110  rmdir -p Documents_1/OldFiles
+  111  ~/docs/mycv
+  112  ~/docs
+  113  ls ~/docs/mycv
+  114  ls docs/mycv
+  115  ls
+  116  mv etc/passwd mypassword
+  117  sudo cp /etc/passwd ~/mypassword
+  118  ls
+  119  c~
+  120  cd~
+  121  cd ~
+  122  cd
+  123  cd $HOME
+  124  cd /home/Cherry
+  125  cd $HOME
+  126  cd
+  127  cd ~
+  128  cd /home/shirehan_medhat
+  129  git clone https://github.com/shirehanmedhat/Embedded_Linux.git
+  130  git checkout -b Branch_Tasks
+  131  cd Embedded_Linux
+  132  git checkout -b Branch_Tasks
+  133  git branch
+  134  git branches
+  135  git branch
+  136  git status
+  137  git branch
+  138  git fetch
+  139  git branch
+  140  git branch -a
+  141  git branch -s
+  142  git branch --all
+  143  git branch -l
+  144  clear
+  145  touch file.txt
+  146  git add *
+  147  ls
+  148  rmf file.txt 
+  149  rm -f file.txt 
+  150  ls
+  151  lear
+  152  clear
+  153  git add .
+  154  git status
+  155  git commit -m "My Commit"
+  156  [200~git config --global user.email "you@example.com"
+  157  ~git config --global user.email "shirehanmedhat@gmail.com"
+  158  git config --global user.email "shirehanmedhat@gmail.com"
+  159  git config --global user.name "Shirehan Medhat"
+  160  git commit -m "My Commit"
+  161  git branch
+  162  git push origin Branch_Tasks
+  163  clear
+  164  git push origin Branch_Tasks
+  165  ls
+  166  mv ~/mypassword ~/OldPasswd
+  167  ls
+  168  ls *w
+  169  ls w*
+  170  ls -l /usr/bin/w*
+  171  ls -l /usr/bin/c*
+  172  nano my_script.sh
+  173  chmod +x my_script.sh
+  174  ./my_script.sh
+  175  sudo abt install git
+  176  sudo apt install git
+  177  sudo apt install telegram-desktop 
+  178  telegram-desktop 
+  179  q
+  180  telegram-desktop &
+  181  ls
+  182  cd Tasks
+  183  ls
+  184  mkdir Day2
+  185  cd Day2
+  186  touch main.c
+  187  vi main.c
+  188  gcc -o main.exe main.c
+  189  ~
+  190  sudo apt install gcc
+  191  cd Tasks
+  192  gcc -o main.exe main.c
+  193  ./main.exe
+  194  cd ~
+  195  ./main.exe
+  196  sudo cp ~/Tasks/Day2/main.exe /user/local/bin
+  197  sudo cp ~/Tasks/Day2/main.exe ~/local/bin
+  198  sudo cp ~/Tasks/Day2/main.exe shirehan_medhat/local/bin
+  199  sudo cp ~/Tasks/Day2/main.exe /home/shirehan_medhat/local/bin
+  200  sudo cp ~/Tasks/Day2/main.exe shirehan_medhat/local/bin
+  201  which gcc
+  202  sudo cp ~/Tasks/Day2/main.exe /user/local/bin
+  203  sudo cp ~/Tasks/Day2/main.exe /user/bin
+  204  sudo cp ~/Tasks/Day2/main.exe user/bin
+  205  whereis gcc
+  206  sudo cp ~/Tasks/Day2/main.exe user/bin
+  207  mkdir Branches
+  208  ls
+  209  cd Branches
+  210  ls
+  211  mkdir Task1
+  212  cd Task1
+  213  git clone https://github.com/shirehanmedhat/_Embedded_Linux.git
+  214  cd _Embedded_Linux
+  215  git checkout -b Day_1
+  216  git branch
+  217  git add .
+  218  git status
+  219  git commit -m "My New commit"
+  220  git push origin Day_1
+  221  ls
+  222  cd Tasks
+  223  ls
+  224  mkdir Test
+  225  cd Test
+  226  ls
+  227  nano menu_script.sh
+  228  chmod +x menu_script.sh
+  229  ./menu_script.sh 
+  230  nano menu_script.sh 
+  231  chmod +x menu_script.sh
+  232  ./menu_script.sh 
+  233  nano menu_script.sh 
+  234  chmod +x menu_script.sh
+  235  ./menu_script.sh 
+  236  nano menu_script.sh 
+  237  chmod +x menu_script.sh
+  238  ./menu_script.sh 
+  239  nano menu_script.sh 
+  240  chmod +x menu_script.sh
+  241  ./menu_script.sh 
+  242  nano menu_script.sh 
+  243  chmod +x menu_script.sh
+  244  ./menu_script.sh 
+  245  clear
+  246  chmod +x menu_script.sh
+  247  ./menu_script.sh 
+  248  nano menu_script.sh 
+  249  chmod +x menu_script.sh
+  250  ./menu_script.sh 
+  251  nano menu_script.sh 
+  252  ./menu_script.sh 
+  253  nano menu_script.sh 
+  254  git add menu_script.sh
+  255  git status
+  256  git commit -m "The Exam Commit"
+  257  git push origin _Embedded_Linux
+  258  git status
+  259  git add menu_script.sh 
+  260  git status
+  261  sudo apt -get update
+  262  sudo apt-get update
+  263  echo $PARENT_VAR
+  264  echo $PARENT_VAR
+  265  echo PARENT_VAR
+  266  echo $PARENT_VAR
+  267  useradd NewShirehan
+  268  sudo useradd NewShirehan
+  269  su -NewShirehan
+  270  su NewShirehan
+  271  sudo passwd NewShirehan
+  272  su -NewShirehan
+  273  su - NewShirehan
+  274  child gnome-terminal
+  275  childgnome-terminal
+  276  childgnome -terminal
+  277  child gnome -terminal
+  278  gnome-terminal
+  279  gnome -terminal
+  280  gnome-terminal
+  281  echo $DISPLAY
+  282  sudo service gdm restart
+  283  nano ~/.bashrc
+  284  echo PS1
+  285  echo $PS1
+  286  echo $PS2
+  287  $PS2 =':'
+  288  echo $PS2
+  289  $PS2 =:
+  290  $PS2 = :
+  291  PS2 =:
+  292  PS2=:
+  293  echo PS2
+  294  echo $PS2
+  295  PS2=>
+  296  PS2='>'
+  297  PS2
+  298  echo $PS2
+  299  export myglobal = 5
+  300  export MYGLOBALVAR=5
+  301  env MYGLOBALVAR
+  302  env $MYGLOBALVAR
+  303  printenv MYGLOBALVAR
+  304  env | grep MYGLOBALVAR
+  305  env
+  306  env MYGLOBALVAR
+  307  export PARENT_VAR = "from parent to child"
+  308  export PARENT_VAR="from parent to child"
+  309  PARENT_VAR=5
+  310  start cmd
+  311  gnome-terminal
+  312  gnome-terminal &
+  313  echo $PARENT_VAR
+  314  PARENT_VAR="HELLO FROM PARENT"
+  315  echo $PARENT_VAR
+  316  $SHELL
+  317  group
+  318  groups
+  319  su -
+  320  sudo su -
+  321  export global=5
+  322  $echo global
+  323  echo $global
+  324  gnome-terminal
+  325  echo $localvar
+  326  export localvar = "hello there"
+  327  export localvar="hello there"
+  328  export localvar2="hello there"
+  329  gnome-terminal
+  330  echo $localvar2
+  331  ech $global
+  332  echo $global
+  333  export localvar=58
+  334  echo $localvar
+  335  echo $localvar2
+  336  echo $localvar2
+  337  localvar2=55
+  338  echo $localvar2
+  339  export MYGLOBALVAR=5
+  340  env | grep MYGLOBALVAR
+  341  $MYGLOBALVAR >>file.txt
+  342  ls
+  343  grep MYGLOBALVAR >> file.txt
+  344  cat file.txt
+  345  ls
+  346  nano file.txt
+  347  5 >> file.txt
+  348  5 >file.txt
+  349  5 > file.txt
+  350  nano file.txt
+  351  cat < file.txt
+  352  echo "new line" >> file.txt
+  353  nano file.txt
+  354  cat MYGLOBALVAR 
+  355  cat file.txt
+  356  cat < file.txt
+  357  ls > file.txt
+  358  whereis cat
+  359  grep "error" /var/log/syslog
+  360  grep -v "debug" /var/log/syslog
+  361  grep -r "important event" /var/log
+  362  cat ~/etc/passwd
+  363  cat /etc/passwd
+  364  cat /etc/shadow
+  365  cat etc/shadow
+  366  cat /etc/shadow
+  367  sudo cat /etc/shadow
+  368  xrandr --output
+  369  xrandr --output <XWAYLAND0> --brightness <.5>
+  370  xrandr --output <output_name> --brightness <value>
+  371  xrandr --output <XWAYLAND0> --brightness <value>
+  372  xrandr --output <XWAYLAND> --brightness <value>
+  373  xrandr --output <XWAYLAND> --brightness <1>
+  374  xrandr --output <XWAYLAND> --brightness <.5>
+  375  xrandr --output <XWAYLAND> --brightness <0.5>
+  376  xrandr --output XWAYLAND --brightness 0.5
+  377  xrandr --output XWAYLAND0 --brightness 0.5
+  378  xrandr --output XWAYLAND0 --brightness 0.25
+  379  xbacklight -set 50
+  380  sudo apt install xbacklight
+  381  xbacklight -set 50
+  382  ls /sys/class/backlight/
+  383  brightnessctl -d <device> s <value>%
+  384  brightnessctl -d Cherry s 50%
+  385  sudo apt install brightnessctl
+  386  brightnessctl -d Cherry s 50%
+  387  ls /sys/class/backlight/
+  388  brightnessctl -d nv_backlight s 50%
+  389  sudo brightnessctl -d nv_backlight s 50%
+  390  sudo brightnessctl -d nv_backlight s 30%
+  391  totem
+  392  git add .
+  393  git status
+  394  git commit -m "The Second Task"
+  395  git push origin _Embedded_Linux
+  396  git branch -a
+  397  git checkout Day_1
+  398  git branch -a
+  399  sudo brightnessctl -d nv_backlight s 50%
+  400  sudo brightnessctl -d nv_backlight s 20%
+  401  clear
+  402  ls
+  403  cd Tasks
+  404  ls
+  405  mkdir Day3
+  406  cd Day3
+  407  ls
+  408  nano day3.sh
+  409  chmod +x day3.sh
+  410  ./day3.sh
+  411  nano day3.sh
+  412  chmod +x day3.sh
+  413  ./day3.sh
+  414  nano day3.sh
+  415  chmod + day3.sh
+  416  ./day3.sh
+  417  nano day3.sh
+  418  chmod +x day3.sh
+  419  ./day3.sh
+  420  nano day3.sh
+  421  chmod +x day3.sh
+  422  ./day3.sh
+  423  nano day3.sh
+  424  chmod +x day3.sh
+  425  ./day3.sh
+  426  nano day3.sh
+  427  chmod +x day3.sh
+  428  ./day3.sh
+  429  nano day3.sh
+  430  chmod +x day3.sh
+  431  ./day3.sh
+  432  nano day3.sh
+  433  nano README.md
+  434  clear
+  435  ls
+  436  cd Tasks
+  437  ls
+  438  Day3
+  439  cd Day3
+  440  ls
+  441  chmod + day3.sh
+  442  ./day3.sh
+  443  clear
+  444  history > /temp/commands.list
+  445  history > /tmp/commands.list
+  446  cd ~/temp
+  447  cd /temp
+  448  cd temp
+  449  cd /tmp
+  450  cd ..
+  451  cd ~/temp
+  452  cd /tmp
+  453  ls
+  454  cat commands.list
+  455  nano ~/.bashrc
+  456  ps2=:
+  457  echo ps2
+  458  echo $ps2
+  459  ps2='>'
+  460  echo $ps2
+  461  ls
+  462  ls -l | grep "^-" | wc -l
+  463  cd ..
+  464  ls
+  465  ls -l | grep "^-" | wc -l
+  466  cd ..
+  467  ls
+  468  cd home
+  469  ls
+  470  cd shirehan_medhat
+  471  ls
+  472  ls -l | grep "^-" | wc -l
+  473  wc -w my_script.sh 
+  474  nano my_script.sh 
+  475  history | wc -l
+  476  nano file.txt
+  477  cat file.txt | cat my_script.sh
+  478  nano file.txt
+  479  cat file.txt 
+  480  cat file.txt | cat my_script.sh
+  481  mkdir Temp_To_Play
+  482  ls
+  483  cd Temp_To_Play
+  484  touch file1 file2 file3 
+  485  ls
+  486  ls | rm
+  487  ls|rm
+  488  ls | rm
+  489  cd
+  490  ls /etc/passwd |wc -l
+  491  nano /etc/passwd
+  492  ls /etc/passwd |wc -l
+  493  sudo find / -type f -name ".profile"
+  494  ls -id / /etc /etc/hosts
+  495  ls -id / 
+  496  ls -id etc
+  497  ls -id  /etc 
+  498  ls -id  /etc/hosts
+  499  ls -id /
+  500  ls -id  /etc 
+  501  ls -id  /etc/hosts
+  502  ls -id / /etc /etc/hosts
+  503  sudo ln -s /etc/passwd /boot/New_Symbolic_File
+  504  HardLink Between /etc/passwd and /boot is not possible as they are different file system
+  505  echo \
+  506  ps2=:
+  507  echo \
+  508  echo $ps2
+  509  clear
+  510  echo \
+  511  ps2=:
+  512  echo ps2
+  513  ps2=':'
+  514  echo \
+  515  ps2='>'
+  516  clear
+  517  echo \
+  518  ps2=:
+  519  echo $ps2
+  520  echo \
+  521  mkdir binary
+  522  cd binary
+  523  touch binary.c
+  524  vi binar.c
+  525  vi binary.c
+  526  chmod u+x binary.c
+  527  ./binary.c
+  528  vi binary.c
+  529  chmod u+x binary.c
+  530  ./binary.c
+  531  cat /etc/shells
+  532  cd binary
+  533  sudo mv binary /usr/local/bin
+  534  printenv
+  535  env
+  536  echo $SHELL
+  537  echoali
+  538  alias prinpath = echo$PATH
+  539  sudo alias prinpath = echo$PATH
+  540  alias prinpath = 'echo$PATH'
+  541  touch check_bashrc.sh
+  542  vi check_bashrc.sh
+  543  chmod +x  check_bashrc.sh
+  544  ls
+  545  ./ check_bashrc.sh
+  546  ./check_bashrc.sh
+  547  chmod +x  check_bashrc.sh
+  548  ./check_bashrc.sh
+  549  chmod +x  check_bashrc.sh
+  550  ./check_bashrc.sh
+  551  chmod +x  check_bashrc.sh
+  552  ./check_bashrc.sh
+  553  chmod +x  check_bashrc.sh
+  554  ./check_bashrc.sh
+  555  cat ./bashrc
+  556  cat .bashrc
+  557  cat /home/.bashrc
+  558  cat ~/.bashrc
+  559  nano ~/.bashrc
+  560  cat /etc/passwd
+  561  touch output
+  562  cat /etc/passwd > output
+  563  clear
+  564  ls
+  565  cd Tasks
+  566  ls
+  567  mkdir EM_LINUX
+  568  cdd EM_LINUX
+  569  cd EM_LINUX
+  570  ls
+  571  mkdir Task1
+  572  cd Task1
+  573  ls
+  574  mkdir Static
+  575  ls
+  576  cd Static
+  577  touch addition.c subtraction.c multiplication.c division.c modulus.c
+  578  ls
+  579  gedit addition.c 
+  580  gedit subtraction.c  multiplication.c  division.c  modulus.c 
+  581  touch calculator.c
+  582  gedit calculator.c 
+  583  touch AllMath.h
+  584  touch AllMath.h addition.c subtraction.c multiplication.c modulus.c 
+  585  gedit AllMath.h addition.c subtraction.c multiplication.c modulus.c 
+  586  gedit division.c 
+  587  gcc -c addition.c subtraction.c multiplication.c modulus.c 
+  588  ls
+  589  file addition.o
+  590  gcc -c division.c 
+  591  ar cr libAllMath.a addition.o subtraction.o multiplication.o division.o modulus.o
+  592  ls
+  593  file libAllMath.a 
+  594  ar t libAllMath.a 
+  595  gcc calculator.c  -o calculator
+  596  ls
+  597  gedit division.c calculator.c 
+  598  gedit AllMath.h 
+  599  gcc calculator.c  -o calculator
+  600  gedit division.c calculator.c 
+  601  gcc calculator.c  -o calculator -I
+  602  gcc calculator.c  -o calculator -I .
+  603  gedit division.c calculator.c 
+  604  gedit AllMath.h 
+  605  gcc -c addition.c subtraction.c multiplication.c modulus.c division.c
+  606  ar cr libAllMath.a addition.o subtraction.o multiplication.o division.o modulus.o
+  607  gcc calculator.c  -o calculator -I .
+  608  gcc calculator.c  -lAllMath -o calculator -I .
+  609  gcc calculator.c  -lAllMath -o calculator -I . -L .
+  610  ls
+  611  ./ calculator
+  612  ./calculator
+  613* 
+  614  ./calculator
+  615  file calculator
+  616  command > MyHistory.txt
+  617  ls
+  618  gedit MyHistory.txt 
+  619  history > MyHistory.txt
+  620  gedit MyHistory.txt 
+  621  script MyHistory.txt 
+  622  gedit MyHistory.txt 
+  623  gcc calculator.c  -lAllMath -o calculator -I . -L . -static
+  624  ls
+  625  ldd calculator
+  626  s
+  627  ls
+  628  cd ..
+  629  ls 
+  630  mkdir Dynamic
+  631  cd static
+  632  ls
+  633  cd Static
+  634  ls
+  635  cp addition.c addition.o subtraction.c subtraction.o division.c division.o multiplication.c multiplication.o modulus.c modulus.o AllMath.h  calculator.c ../Dynamic/
+  636  cd ..
+  637  ls
+  638  cd Dynamic/
+  639  ls
+  640  cd ../Static/
+  641  ls
+  642  file calculator
+  643  objdump -D calculator > Static_Calcualtor_Objdump.dump
+  644  gedit Static_Calcualtor_Objdump.dump
+  645  cd ..
+  646  cd Dynamic/
+  647  ls
+  648  rm *.o
+  649  ls
+  650  gcc -fpic -c addition.c subtraction.c multiplication.c division.c modulus.c 
+  651  ls
+  652  gcc -o libAllMath.so addition.o subtraction.o division.o multiplication.o modulus.o
+  653  gcc -o libAllMath.so addition.o subtraction.o division.o multiplication.o modulus.o -shared -Wl,-soname,libAllMath.so.1
+  654  ls
+  655  gcc calculator.c -o Calculator -lAllMath -I . -L .
+  656  ls
+  657  ./Calculator 
+  658  ls
+  659  mkdir lib
+  660  mv libAllMath.so /lib
+  661  sudo mv libAllMath.so /lib
+  662  ls
+  663  cd lib
+  664  ;s
+  665  ls
+  666  cd ..
+  667  ls
+  668  gcc -o libAllMath.so addition.o subtraction.o division.o multiplication.o modulus.o
+  669  gcc -o libAllMath.so addition.o subtraction.o division.o multiplication.o modulus.o -shared -Wl,-soname,libAllMath.so.1
+  670  ls
+  671  cp libAllMath.so lib
+  672  cd lib
+  673  ls
+  674  cd ..
+  675  ls
+  676  rm libAllMath.so 
+  677  cd 
+  678  ls
+  679  cd Tasks/
+  680  ls
+  681  cd EM_LINUX/D
+  682  cd EM_LINUX/
+  683  ls
+  684  cd Task1/Dynamic/
+  685  ls
+  686  echo $LD_LIBRARY_PATH
+  687  ls /home/
+  688  ls /home/shirehan_medhat/
+  689  ls /home/shirehan_medhat/Tasks/
+  690  ls /home/shirehan_medhat/Tasks/EM_LINUX/
+  691  ls /home/shirehan_medhat/Tasks/EM_LINUX/Task1/Task1
+  692  ls /home/shirehan_medhat/Tasks/EM_LINUX/Task1
+  693  ls /home/shirehan_medhat/Tasks/EM_LINUX/Task1/Dynamic/
+  694  ls /home/shirehan_medhat/Tasks/EM_LINUX/Task1/Dynamic/lib/
+  695  cd ..
+  696  LD_LIBRARY_PATH=/home/shirehan_medhat/Tasks/EM_LINUX/Task1/Dynamic/lib:$LD_LIBRARY_PATH
+  697  echo $LD_LIBRARY_PATH
+  698  export LD_LIBRARY_PATH
+  699  gcc calculator.c -o Calculator -lAllMath -I . -L lib
+  700  gcc calculator.c -o Calculator -lAllMath -I . -Llib
+  701  ls
+  702  cd Dynamic/
+  703  ls
+  704  gcc calculator.c -o Calculator -lAllMath -I . -L lib
+  705  ls
+  706  ./Calculator 
+  707  gcc calculator.c -o Calculator -lAllMath -I . -L lib -Wl,-rpath=./lib
+  708  ls
+  709  ./Calculator 
+  710  ls
+  711  rm Calculator 
+  712  ls
+  713  gcc -L./lib -Wl,-rpath=./lib -Wall -o Calculator calculator.c -l anyname -I . 
+  714  gcc calculator.c -o Calculator -lAllMath -I . -L lib
+  715  ls
+  716  ./Calculator 
+  717  LD_LIBRARY_PATH=/home/shirehan_medhat/Tasks/EM_LINUX/Task1/Dynamic/lib:
+  718  $echo $LD_LIBRARY_PATH
+  719  LD_LIBRARY_PATH=/home/shirehan_medhat/Tasks/EM_LINUX/Task1/Dynamic/lib
+  720  $echo $LD_LIBRARY_PATH
+  721  ./Calculator 
+  722  LD_LIBRARY_PATH=/home/shirehan_medhat/Tasks/EM_LINUX/Task1/Dynamic/lib:$LD_LIBRARY_PATH
+  723  $echo $LD_LIBRARY_PATH
+  724  LD_LIBRARY_PATH=/home/shirehan_medhat/Tasks/EM_LINUX/Task1/Dynamic/lib:
+  725  $echo $LD_LIBRARY_PATH
+  726  CD
+  727  cd
+  728  LD_LIBRARY_PATH=/home/shirehan_medhat/Tasks/EM_LINUX/Task1/Dynamic/lib:$LD_LIBRARY_PATH
+  729  $echo $LD_LIBRARY_PATH
+  730  LD_LIBRARY_PATH=/home/shirehan_medhat/Tasks/EM_LINUX/Task1/Dynamic/lib:
+  731  $echo $LD_LIBRARY_PATH
+  732  LD_LIBRARY_PATH=home/shirehan_medhat/Tasks/EM_LINUX/Task1/Dynamic/lib:$LD_LIBRARY_PATH
+  733  $echo $LD_LIBRARY_PATH
+  734  LD_LIBRARY_PATH=home
+  735  $echo $LD_LIBRARY_PATH
+  736* LD_LIBRARY_PATH=~/Tasks/EM_LINUX/Task1/Dynamic/lib:$LD_LIBRARY_PAT
+  737  $echo $LD_LIBRARY_PATH
+  738  LD_LIBRARY_PATH=home/shirehan_medhat/Tasks/EM_LINUX/Task1/Dynamic/lib:$LD_LIBRARY_PATH
+  739  echo $LD_LIBRARY_PATH
+  740  LD_LIBRARY_PATH=home/shirehan_medhat/Tasks/EM_LINUX/Task1/Dynamic/lib:
+  741  echo $LD_LIBRARY_PATH
+  742  CD
+  743  cd
+  744  cd/home/shirehan_medhat/Tasks/EM_LINUX/Task1/Dynamic/lib:
+  745  cd/Tasks/EM_LINUX/Task1/Dynamic/lib:
+  746  cd Tasks/EM_LINUX/Task1/Dynamic/lib:
+  747  ls
+  748  cd Tasks/EM_LINUX/Task1/Dynamic
+  749  ls
+  750  ./Calculator 
+  751  ls
+  752  cd lib
+  753  ls
+  754  rm libAllMath.so 
+  755  cd ..
+  756  ls
+  757  gcc -shared -o libAllMath.so addition.o subtraction.o division.o multiplication.o modulus.o
+  758  ls
+  759  cp libAllMath.so lib
+  760  ls lib
+  761  ls
+  762  rm libAllMath.so 
+  763  ls
+  764  rm Calculator 
+  765  ls
+  766  gcc calculator.c -L lib -lAllMath -o Calculator -I .
+  767  ls
+  768  ./Calculator 
+  769  ldd Calculator 
+  770  file Calculator 
+  771  cd ..
+  772  ls
+  773  cd S
+  774  cd Static/
+  775  ls
+  776  cd ..
+  777  cd Dynamic/
+  778  ls
+  779  objdump -D Calculator > Dynamic_Calcualtor_Objdump.dump 
+  780  gedit Dynamic_Calcualtor_Objdump.dump 
+  781  hisory >MyHistory.txt
+  782  history >MyHistory.txt

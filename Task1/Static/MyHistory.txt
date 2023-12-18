@@ -1,0 +1,495 @@
+Script started on 2023-12-18 16:46:02+02:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+bash: export: `=': not a valid identifier
+bash: export: `=': not a valid identifier
+Today is 18 ديس, 2023 EET 04:46:02 م
+[?2004h]0;shirehan_medhat@Cherry: ~/Tasks/EM_LINUX/Task1/Static[01;32mshirehan_medhat@Cherry[00m:[01;34m~/Tasks/EM_LINUX/Task1/Static[00m$ cat /etc/passwd > output[12Ptouch[C[C[C[C[C[C[Ccat /etc/passwd[1Pnano ~/.bashrc[1Pcat[C[C[C[C[C[C[C[C[C[C/home/.bashrc[6P.bashrc/bashrc./check_bashrc.shchmod +x  check_bashrc.sh[8P./check_bashrc.shchmod +x  check_bashrc.sh[8P./check_bashrc.shchmod +x  check_bashrc.sh[8P./check_bashrc.shchmod +x  check_bashrc.sh[8P./check_bashrc.sh[5Pcat ./bashrc[1Pbashrc/home/.bashrc[4P~/.bashrc[1@nano[C[C[C[C[C[C[C[C[C[Ccat /etc/passwd[3Ptouch output[12@cat /etc/passwd >[C[C[C[C[C[C[C[Khistory -> MyHistory.txt 
+[?2004lbash: history: -: numeric argument required
+[?2004h]0;shirehan_medhat@Cherry: ~/Tasks/EM_LINUX/Task1/Static[01;32mshirehan_medhat@Cherry[00m:[01;34m~/Tasks/EM_LINUX/Task1/Static[00m$ history -> MyHistory.txt [1P
+[?2004l[?2004h]0;shirehan_medhat@Cherry: ~/Tasks/EM_LINUX/Task1/Static[01;32mshirehan_medhat@Cherry[00m:[01;34m~/Tasks/EM_LINUX/Task1/Static[00m$ exit
+[?2004lexit
+
+Script done on 2023-12-18 16:46:53+02:00 [COMMAND_EXIT_CODE="0"]
+   81  ls
+   82  cd ~
+   83  touch docs/mycv
+   84  cd docs
+   85  ls
+   86  cd
+   87  touch Documents_1/OldFile
+   88  cd Documents_1
+   89  ls
+   90  clear
+   91  ls
+   92  cd ~
+   93  ls
+   94  rmdir ~/dir1/dir11
+   95  rm -r ~/dir1/dir11
+   96  cd ~/dir1
+   97  ls
+   98  rmdir -p Documents_1/OldFiles
+   99  cd 
+  100  rmdir -p Documents_1/OldFiles
+  101  cd Documents_1
+  102  ls
+  103  cd ~
+  104  cd Documents_1
+  105  mv OldFile OldFiles
+  106  ls
+  107  cd ~
+  108  rmdir -p Documents_1/OldFiles
+  109  rmdir -p Documents_1
+  110  rmdir -p Documents_1/OldFiles
+  111  ~/docs/mycv
+  112  ~/docs
+  113  ls ~/docs/mycv
+  114  ls docs/mycv
+  115  ls
+  116  mv etc/passwd mypassword
+  117  sudo cp /etc/passwd ~/mypassword
+  118  ls
+  119  c~
+  120  cd~
+  121  cd ~
+  122  cd
+  123  cd $HOME
+  124  cd /home/Cherry
+  125  cd $HOME
+  126  cd
+  127  cd ~
+  128  cd /home/shirehan_medhat
+  129  git clone https://github.com/shirehanmedhat/Embedded_Linux.git
+  130  git checkout -b Branch_Tasks
+  131  cd Embedded_Linux
+  132  git checkout -b Branch_Tasks
+  133  git branch
+  134  git branches
+  135  git branch
+  136  git status
+  137  git branch
+  138  git fetch
+  139  git branch
+  140  git branch -a
+  141  git branch -s
+  142  git branch --all
+  143  git branch -l
+  144  clear
+  145  touch file.txt
+  146  git add *
+  147  ls
+  148  rmf file.txt 
+  149  rm -f file.txt 
+  150  ls
+  151  lear
+  152  clear
+  153  git add .
+  154  git status
+  155  git commit -m "My Commit"
+  156  [200~git config --global user.email "you@example.com"
+  157  ~git config --global user.email "shirehanmedhat@gmail.com"
+  158  git config --global user.email "shirehanmedhat@gmail.com"
+  159  git config --global user.name "Shirehan Medhat"
+  160  git commit -m "My Commit"
+  161  git branch
+  162  git push origin Branch_Tasks
+  163  clear
+  164  git push origin Branch_Tasks
+  165  ls
+  166  mv ~/mypassword ~/OldPasswd
+  167  ls
+  168  ls *w
+  169  ls w*
+  170  ls -l /usr/bin/w*
+  171  ls -l /usr/bin/c*
+  172  nano my_script.sh
+  173  chmod +x my_script.sh
+  174  ./my_script.sh
+  175  sudo abt install git
+  176  sudo apt install git
+  177  sudo apt install telegram-desktop 
+  178  telegram-desktop 
+  179  q
+  180  telegram-desktop &
+  181  ls
+  182  cd Tasks
+  183  ls
+  184  mkdir Day2
+  185  cd Day2
+  186  touch main.c
+  187  vi main.c
+  188  gcc -o main.exe main.c
+  189  ~
+  190  sudo apt install gcc
+  191  cd Tasks
+  192  gcc -o main.exe main.c
+  193  ./main.exe
+  194  cd ~
+  195  ./main.exe
+  196  sudo cp ~/Tasks/Day2/main.exe /user/local/bin
+  197  sudo cp ~/Tasks/Day2/main.exe ~/local/bin
+  198  sudo cp ~/Tasks/Day2/main.exe shirehan_medhat/local/bin
+  199  sudo cp ~/Tasks/Day2/main.exe /home/shirehan_medhat/local/bin
+  200  sudo cp ~/Tasks/Day2/main.exe shirehan_medhat/local/bin
+  201  which gcc
+  202  sudo cp ~/Tasks/Day2/main.exe /user/local/bin
+  203  sudo cp ~/Tasks/Day2/main.exe /user/bin
+  204  sudo cp ~/Tasks/Day2/main.exe user/bin
+  205  whereis gcc
+  206  sudo cp ~/Tasks/Day2/main.exe user/bin
+  207  mkdir Branches
+  208  ls
+  209  cd Branches
+  210  ls
+  211  mkdir Task1
+  212  cd Task1
+  213  git clone https://github.com/shirehanmedhat/_Embedded_Linux.git
+  214  cd _Embedded_Linux
+  215  git checkout -b Day_1
+  216  git branch
+  217  git add .
+  218  git status
+  219  git commit -m "My New commit"
+  220  git push origin Day_1
+  221  ls
+  222  cd Tasks
+  223  ls
+  224  mkdir Test
+  225  cd Test
+  226  ls
+  227  nano menu_script.sh
+  228  chmod +x menu_script.sh
+  229  ./menu_script.sh 
+  230  nano menu_script.sh 
+  231  chmod +x menu_script.sh
+  232  ./menu_script.sh 
+  233  nano menu_script.sh 
+  234  chmod +x menu_script.sh
+  235  ./menu_script.sh 
+  236  nano menu_script.sh 
+  237  chmod +x menu_script.sh
+  238  ./menu_script.sh 
+  239  nano menu_script.sh 
+  240  chmod +x menu_script.sh
+  241  ./menu_script.sh 
+  242  nano menu_script.sh 
+  243  chmod +x menu_script.sh
+  244  ./menu_script.sh 
+  245  clear
+  246  chmod +x menu_script.sh
+  247  ./menu_script.sh 
+  248  nano menu_script.sh 
+  249  chmod +x menu_script.sh
+  250  ./menu_script.sh 
+  251  nano menu_script.sh 
+  252  ./menu_script.sh 
+  253  nano menu_script.sh 
+  254  git add menu_script.sh
+  255  git status
+  256  git commit -m "The Exam Commit"
+  257  git push origin _Embedded_Linux
+  258  git status
+  259  git add menu_script.sh 
+  260  git status
+  261  sudo apt -get update
+  262  sudo apt-get update
+  263  echo $PARENT_VAR
+  264  echo $PARENT_VAR
+  265  echo PARENT_VAR
+  266  echo $PARENT_VAR
+  267  useradd NewShirehan
+  268  sudo useradd NewShirehan
+  269  su -NewShirehan
+  270  su NewShirehan
+  271  sudo passwd NewShirehan
+  272  su -NewShirehan
+  273  su - NewShirehan
+  274  child gnome-terminal
+  275  childgnome-terminal
+  276  childgnome -terminal
+  277  child gnome -terminal
+  278  gnome-terminal
+  279  gnome -terminal
+  280  gnome-terminal
+  281  echo $DISPLAY
+  282  sudo service gdm restart
+  283  nano ~/.bashrc
+  284  echo PS1
+  285  echo $PS1
+  286  echo $PS2
+  287  $PS2 =':'
+  288  echo $PS2
+  289  $PS2 =:
+  290  $PS2 = :
+  291  PS2 =:
+  292  PS2=:
+  293  echo PS2
+  294  echo $PS2
+  295  PS2=>
+  296  PS2='>'
+  297  PS2
+  298  echo $PS2
+  299  export myglobal = 5
+  300  export MYGLOBALVAR=5
+  301  env MYGLOBALVAR
+  302  env $MYGLOBALVAR
+  303  printenv MYGLOBALVAR
+  304  env | grep MYGLOBALVAR
+  305  env
+  306  env MYGLOBALVAR
+  307  export PARENT_VAR = "from parent to child"
+  308  export PARENT_VAR="from parent to child"
+  309  PARENT_VAR=5
+  310  start cmd
+  311  gnome-terminal
+  312  gnome-terminal &
+  313  echo $PARENT_VAR
+  314  PARENT_VAR="HELLO FROM PARENT"
+  315  echo $PARENT_VAR
+  316  $SHELL
+  317  group
+  318  groups
+  319  su -
+  320  sudo su -
+  321  export global=5
+  322  $echo global
+  323  echo $global
+  324  gnome-terminal
+  325  echo $localvar
+  326  export localvar = "hello there"
+  327  export localvar="hello there"
+  328  export localvar2="hello there"
+  329  gnome-terminal
+  330  echo $localvar2
+  331  ech $global
+  332  echo $global
+  333  export localvar=58
+  334  echo $localvar
+  335  echo $localvar2
+  336  echo $localvar2
+  337  localvar2=55
+  338  echo $localvar2
+  339  export MYGLOBALVAR=5
+  340  env | grep MYGLOBALVAR
+  341  $MYGLOBALVAR >>file.txt
+  342  ls
+  343  grep MYGLOBALVAR >> file.txt
+  344  cat file.txt
+  345  ls
+  346  nano file.txt
+  347  5 >> file.txt
+  348  5 >file.txt
+  349  5 > file.txt
+  350  nano file.txt
+  351  cat < file.txt
+  352  echo "new line" >> file.txt
+  353  nano file.txt
+  354  cat MYGLOBALVAR 
+  355  cat file.txt
+  356  cat < file.txt
+  357  ls > file.txt
+  358  whereis cat
+  359  grep "error" /var/log/syslog
+  360  grep -v "debug" /var/log/syslog
+  361  grep -r "important event" /var/log
+  362  cat ~/etc/passwd
+  363  cat /etc/passwd
+  364  cat /etc/shadow
+  365  cat etc/shadow
+  366  cat /etc/shadow
+  367  sudo cat /etc/shadow
+  368  xrandr --output
+  369  xrandr --output <XWAYLAND0> --brightness <.5>
+  370  xrandr --output <output_name> --brightness <value>
+  371  xrandr --output <XWAYLAND0> --brightness <value>
+  372  xrandr --output <XWAYLAND> --brightness <value>
+  373  xrandr --output <XWAYLAND> --brightness <1>
+  374  xrandr --output <XWAYLAND> --brightness <.5>
+  375  xrandr --output <XWAYLAND> --brightness <0.5>
+  376  xrandr --output XWAYLAND --brightness 0.5
+  377  xrandr --output XWAYLAND0 --brightness 0.5
+  378  xrandr --output XWAYLAND0 --brightness 0.25
+  379  xbacklight -set 50
+  380  sudo apt install xbacklight
+  381  xbacklight -set 50
+  382  ls /sys/class/backlight/
+  383  brightnessctl -d <device> s <value>%
+  384  brightnessctl -d Cherry s 50%
+  385  sudo apt install brightnessctl
+  386  brightnessctl -d Cherry s 50%
+  387  ls /sys/class/backlight/
+  388  brightnessctl -d nv_backlight s 50%
+  389  sudo brightnessctl -d nv_backlight s 50%
+  390  sudo brightnessctl -d nv_backlight s 30%
+  391  totem
+  392  git add .
+  393  git status
+  394  git commit -m "The Second Task"
+  395  git push origin _Embedded_Linux
+  396  git branch -a
+  397  git checkout Day_1
+  398  git branch -a
+  399  sudo brightnessctl -d nv_backlight s 50%
+  400  sudo brightnessctl -d nv_backlight s 20%
+  401  clear
+  402  ls
+  403  cd Tasks
+  404  ls
+  405  mkdir Day3
+  406  cd Day3
+  407  ls
+  408  nano day3.sh
+  409  chmod +x day3.sh
+  410  ./day3.sh
+  411  nano day3.sh
+  412  chmod +x day3.sh
+  413  ./day3.sh
+  414  nano day3.sh
+  415  chmod + day3.sh
+  416  ./day3.sh
+  417  nano day3.sh
+  418  chmod +x day3.sh
+  419  ./day3.sh
+  420  nano day3.sh
+  421  chmod +x day3.sh
+  422  ./day3.sh
+  423  nano day3.sh
+  424  chmod +x day3.sh
+  425  ./day3.sh
+  426  nano day3.sh
+  427  chmod +x day3.sh
+  428  ./day3.sh
+  429  nano day3.sh
+  430  chmod +x day3.sh
+  431  ./day3.sh
+  432  nano day3.sh
+  433  nano README.md
+  434  clear
+  435  ls
+  436  cd Tasks
+  437  ls
+  438  Day3
+  439  cd Day3
+  440  ls
+  441  chmod + day3.sh
+  442  ./day3.sh
+  443  clear
+  444  history > /temp/commands.list
+  445  history > /tmp/commands.list
+  446  cd ~/temp
+  447  cd /temp
+  448  cd temp
+  449  cd /tmp
+  450  cd ..
+  451  cd ~/temp
+  452  cd /tmp
+  453  ls
+  454  cat commands.list
+  455  nano ~/.bashrc
+  456  ps2=:
+  457  echo ps2
+  458  echo $ps2
+  459  ps2='>'
+  460  echo $ps2
+  461  ls
+  462  ls -l | grep "^-" | wc -l
+  463  cd ..
+  464  ls
+  465  ls -l | grep "^-" | wc -l
+  466  cd ..
+  467  ls
+  468  cd home
+  469  ls
+  470  cd shirehan_medhat
+  471  ls
+  472  ls -l | grep "^-" | wc -l
+  473  wc -w my_script.sh 
+  474  nano my_script.sh 
+  475  history | wc -l
+  476  nano file.txt
+  477  cat file.txt | cat my_script.sh
+  478  nano file.txt
+  479  cat file.txt 
+  480  cat file.txt | cat my_script.sh
+  481  mkdir Temp_To_Play
+  482  ls
+  483  cd Temp_To_Play
+  484  touch file1 file2 file3 
+  485  ls
+  486  ls | rm
+  487  ls|rm
+  488  ls | rm
+  489  cd
+  490  ls /etc/passwd |wc -l
+  491  nano /etc/passwd
+  492  ls /etc/passwd |wc -l
+  493  sudo find / -type f -name ".profile"
+  494  ls -id / /etc /etc/hosts
+  495  ls -id / 
+  496  ls -id etc
+  497  ls -id  /etc 
+  498  ls -id  /etc/hosts
+  499  ls -id /
+  500  ls -id  /etc 
+  501  ls -id  /etc/hosts
+  502  ls -id / /etc /etc/hosts
+  503  sudo ln -s /etc/passwd /boot/New_Symbolic_File
+  504  HardLink Between /etc/passwd and /boot is not possible as they are different file system
+  505  echo \
+  506  ps2=:
+  507  echo \
+  508  echo $ps2
+  509  clear
+  510  echo \
+  511  ps2=:
+  512  echo ps2
+  513  ps2=':'
+  514  echo \
+  515  ps2='>'
+  516  clear
+  517  echo \
+  518  ps2=:
+  519  echo $ps2
+  520  echo \
+  521  mkdir binary
+  522  cd binary
+  523  touch binary.c
+  524  vi binar.c
+  525  vi binary.c
+  526  chmod u+x binary.c
+  527  ./binary.c
+  528  vi binary.c
+  529  chmod u+x binary.c
+  530  ./binary.c
+  531  cat /etc/shells
+  532  cd binary
+  533  sudo mv binary /usr/local/bin
+  534  printenv
+  535  env
+  536  echo $SHELL
+  537  echoali
+  538  alias prinpath = echo$PATH
+  539  sudo alias prinpath = echo$PATH
+  540  alias prinpath = 'echo$PATH'
+  541  touch check_bashrc.sh
+  542  vi check_bashrc.sh
+  543  chmod +x  check_bashrc.sh
+  544  ls
+  545  ./ check_bashrc.sh
+  546  ./check_bashrc.sh
+  547  chmod +x  check_bashrc.sh
+  548  ./check_bashrc.sh
+  549  chmod +x  check_bashrc.sh
+  550  ./check_bashrc.sh
+  551  chmod +x  check_bashrc.sh
+  552  ./check_bashrc.sh
+  553  chmod +x  check_bashrc.sh
+  554  ./check_bashrc.sh
+  555  cat ./bashrc
+  556  cat .bashrc
+  557  cat /home/.bashrc
+  558  cat ~/.bashrc
+  559  nano ~/.bashrc
+  560  cat /etc/passwd
+  561  touch output
+  562  cat /etc/passwd > output
+  563  history -> MyHistory.txt 
+  564  history > MyHistory.txt 
