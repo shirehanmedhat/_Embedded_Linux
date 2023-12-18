@@ -7,8 +7,8 @@
 This Bash script is designed to update environment variables in the user's .bashrc file. It appends two new lines to the file: one for the HELLO_HOST variable with the value of HOSTNAME and another for the LOCAL variable with the output of the whoami command. Additionally, it opens a new terminal to apply the changes.
 
 #### Usage
-1- Make the script executable
-2- Run the script
+###### 1- Make the script executable
+###### 2- Run the script
 
 
 #### Expected Output
